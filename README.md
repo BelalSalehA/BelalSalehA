@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Belal Saleh
+# 👋 Hi, I'm Belal Saleh , **Full Stack .NET Developer | Software Engineer | Tech Enthusiast**
 
 💻 **Full Stack .NET Developer** with 15+ years of experience building **enterprise, desktop, and multi-platform applications**.
 
