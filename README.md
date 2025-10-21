@@ -11,4 +11,4 @@ Passionate about **clean architecture**, **scalable solutions**, and contributin
 ### 🌱 What I’m Working On
 - Multi-tenant ERP SaaS solutions using .NET Core & React.  
 - Building **open-source tools** for developer productivity and learning.  
-- Continuous learning in modern web technologies.
+- Continuous learning on modern web technologies.
