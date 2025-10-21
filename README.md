@@ -12,8 +12,3 @@ Passionate about **clean architecture**, **scalable solutions**, and contributin
 - Multi-tenant ERP SaaS solutions using .NET Core & React.  
 - Building **open-source tools** for developer productivity and learning.  
 - Continuous learning in modern web technologies.
-
-### 📈 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BelalSalehA&show_icons=true&theme=default)
-
