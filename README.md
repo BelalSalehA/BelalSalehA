@@ -2,7 +2,7 @@
 
 🚀 **Full Stack .NET Developer | Software Engineer | Tech Enthusiast**
 
-I'm a passionate software developer with **15+ years of hands-on experience** designing, developing, and delivering **scalable enterprise and multi-platform applications**.  
+I'm a passionate software developer working on designing, developing, and delivering **scalable enterprise and multi-platform applications**.  
 I specialize in **.NET (C#, ASP.NET Core)** and **modern JavaScript frameworks** like **ReactJS** and **Next.js**, with a strong focus on **performance, clean architecture, and maintainability**.
 
 ---
@@ -49,20 +49,6 @@ I specialize in **.NET (C#, ASP.NET Core)** and **modern JavaScript frameworks**
 - 🏗️ Scalable software architecture  
 - ⚡ Modern web technologies (React, Next.js, .NET 8+)  
 - 🤝 Mentoring and team leadership  
-
----
-
-### 📈 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
----
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
-- 🧰 [Portfolio / Personal Website](https://YOUR-WEBSITE.com)  
-- 📨 Reach me at: [YOUR.EMAIL@domain.com](mailto:YOUR.EMAIL@domain.com)  
 
 ---
 
