@@ -11,7 +11,7 @@ I specialize in **.NET (C#, ASP.NET Core)** and **modern JavaScript frameworks**
 
 - 💻 I build **enterprise-grade ERP systems**, RESTful APIs, and full-stack applications.  
 - ⚙️ Skilled in **ASP.NET Core**, **C#**, **ReactJS**, **Next.js**, and **Microservices Architecture**.  
-- 🖥️ Experienced in **Desktop (WinForms, C/C++)** and **Mobile (Xamarin, React Native, Expo)** development.  
+- 🖥️ Experienced in **Desktop (WinForms, C/C++)** and **Mobile (Xamarin, MAUI, React Native, Expo)** development.  
 - ☁️ Familiar with **Azure DevOps**, **AWS**, **Jenkins**, **Vercel**, and CI/CD pipelines.  
 - 🗃️ Strong background in **database design and optimization** — MS SQL Server, MongoDB, MySQL, PostgreSQL.  
 - 🧩 Advocate for **SOLID principles**, **clean code**, and **modern software design patterns**.  
